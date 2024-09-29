@@ -1,6 +1,6 @@
 # how_to PDF
 
-To get the you must have [Typst](https://github.com/typst/typst) installed and the executable on the path. You can find the latest version in their GitHub release page.
+To get the PDF you must have [Typst](https://github.com/typst/typst) installed and the executable on the path. You can find the latest version in their GitHub release page.
 
 Once this is done, compile with :
 
